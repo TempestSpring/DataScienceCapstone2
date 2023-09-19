@@ -1,0 +1,51 @@
+,Cytokine,Number of Features,Features
+0,Activin A,10,"[Output_2,Output_5,Output_15,Output_21,Output_22,Output_38,Output_102,Output_270,Output_781,Output_999]"
+1,CCL1,10,"[Output_2,Output_5,Output_9,Output_21,Output_38,Output_778,Output_917,Output_1141,Output_1169,Output_1231]"
+2,CCL19,10,"[Output_0,Output_1,Output_2,Output_3,Output_5,Output_6
+,Output_9,Output_249,Output_698,Output_1011]"
+3,CCL2,10,"[Output_2,Output_5,Output_81,Output_272,Output_695,Output_719
+,Output_797,Output_1120,Output_1237,Output_1265]"
+4,CCL20,10,"[Output_0,Output_2,Output_3,Output_5,Output_6,Output_9
+,Output_10,Output_11,Output_344,Output_939]"
+5,CCL22,10,"[Output_0,Output_5,Output_11,Output_21,Output_26,Output_29
+,Output_308,Output_336,Output_479,Output_1157]"
+6,CCL4,10,"[Output_0,Output_2,Output_5,Output_7,Output_9,Output_11
+,Output_75,Output_515,Output_518,Output_544]"
+7,CCL5,10,"[Output_2,Output_11,Output_21,Output_25,Output_26,Output_409
+,Output_575,Output_769,Output_782,Output_1235]"
+8,CD14,10,"[Output_0,Output_1,Output_2,Output_5,Output_6,Output_7
+,Output_36,Output_100,Output_275,Output_935]"
+9,CRP,10,"[Output_2,Output_5,Output_11,Output_21,Output_22,Output_25
+,Output_26,Output_65,Output_478,Output_971]"
+10,CXCL1,10,"[Output_0,Output_1,Output_2,Output_5,Output_10,Output_11
+,Output_13,Output_15,Output_303,Output_796]"
+11,CXCL10,10,"[Output_0,Output_1,Output_2,Output_3,Output_5,Output_6
+,Output_7,Output_8,Output_633,Output_1118]"
+12,CXCL13,10,"[Output_0,Output_1,Output_2,Output_3,Output_5,Output_6
+,Output_7,Output_9,Output_20,Output_521]"
+13,CXCL3,10,"[Output_0,Output_2,Output_5,Output_11,Output_15,Output_142
+,Output_149,Output_824,Output_913,Output_1122]"
+14,CXCL5,10,"[Output_5,Output_7,Output_9,Output_11,Output_21,Output_22
+,Output_25,Output_106,Output_520,Output_1163]"
+15,G-CSF,10,"[Output_21,Output_29,Output_71,Output_76,Output_87,Output_174
+,Output_317,Output_453,Output_749,Output_1195]"
+16,GM-CSF,10,"[Output_1,Output_2,Output_5,Output_7,Output_9,Output_10
+,Output_11,Output_13,Output_15,Output_1165]"
+17,IL-1 alpha,10,"[Output_2,Output_5,Output_11,Output_15,Output_140,Output_236
+,Output_624,Output_747,Output_866,Output_1141]"
+18,IL-1 beta,10,"[Output_2,Output_5,Output_11,Output_15,Output_34,Output_41
+,Output_211,Output_234,Output_267,Output_1272]"
+19,IL-12 p40,10,"[Output_0,Output_1,Output_2,Output_3,Output_5,Output_7
+,Output_751,Output_769,Output_790,Output_879]"
+20,IL-16,10,"[Output_0,Output_1,Output_2,Output_5,Output_10,Output_11
+,Output_15,Output_37,Output_679,Output_1060]"
+21,IL-6 R alpha,10,"[Output_2,Output_5,Output_132,Output_139,Output_220,Output_364
+,Output_620,Output_622,Output_732,Output_1004]"
+22,IL-6,10,"[Output_26,Output_29,Output_43,Output_45,Output_190,Output_365
+,Output_469,Output_522,Output_822,Output_899]"
+23,IL-8,10,"[Output_0,Output_2,Output_5,Output_10,Output_11,Output_15
+,Output_93,Output_162,Output_679,Output_1042]"
+24,MMP-9,10,"[Output_2,Output_5,Output_7,Output_8,Output_9,Output_10
+,Output_13,Output_30,Output_124,Output_589]"
+25,TNF RII,10,"[Output_2,Output_5,Output_9,Output_11,Output_15,Output_18
+,Output_21,Output_538,Output_990,Output_1028]"
